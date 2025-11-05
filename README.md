@@ -11,7 +11,7 @@ When clicked, the card flips to reveal your message for your teacher! 💖
 
 
 🔗 **Try it here:**
-https://merilmanagase19-lang-code.github.oi/myteacher-sdaymessagecard.web/
+ https://merilmanagase19-lang.github.io/myteacher-sdaymessagecard.web/
 
 ## 💫 Project Preview
 
